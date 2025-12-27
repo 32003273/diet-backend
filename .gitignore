@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+*.exe
+*.dll
+*.pdb
+*.log
+*.tmp
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# Node.js（如有前端）
+node_modules/
+
+# 环境变量
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
