@@ -19,7 +19,7 @@ venv/
 env/
 ENV/
 
-# Node.js（如有前端）
+# Node.js
 node_modules/
 
 # 环境变量
